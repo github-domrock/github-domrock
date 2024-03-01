@@ -64,6 +64,7 @@ LinkedIn: https://www.linkedin.com/company/dom-rock/mycompany/
 Blog: [Insira o link do seu blog]
 Estudos de caso: [Insira links para estudos de caso]
 Whitepapers: [Insira links para whitepapers]
+
 ## Seja qual for o seu desafio de Big Data ou Inteligência Artificial, estamos aqui para ajudá-lo a alcançar seus objetivos.
 
 ## Entre em contato conosco hoje mesmo!

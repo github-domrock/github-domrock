@@ -55,11 +55,11 @@ GCP
 
 Para saber mais sobre nossos serviços, entre em contato conosco:
 
-Website: [(https://www.domrock.net/)]
-Email: [contact@domrock.ai]
-Telefone: [+55) 11 4152 8794]
+Website: https://www.domrock.net/
+Email: contact@domrock.ai
+Telefone: (+55) 11 4152 8794
 Redes sociais:
-LinkedIn: [[Insira o link para o LinkedIn](https://www.linkedin.com/company/dom-rock/mycompany/)]
+LinkedIn: https://www.linkedin.com/company/dom-rock/mycompany/
 Facebook: [Insira o link para o Facebook]
 Twitter: [Insira o link para o Twitter]
 ## Recursos Adicionais

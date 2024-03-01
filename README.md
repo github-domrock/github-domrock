@@ -1,4 +1,4 @@
-- # [DomRock]
+- # DomRock
 
 Empresa líder em soluções de Big Data e Inteligência Artificial, ajudando empresas a tomar decisões mais inteligentes e eficientes.
 
@@ -60,9 +60,6 @@ Email: contact@domrock.ai
 Telefone: (+55) 11 4152 8794
 Redes sociais:
 LinkedIn: https://www.linkedin.com/company/dom-rock/mycompany/
-Facebook: [Insira o link para o Facebook]
-Twitter: [Insira o link para o Twitter]
-## Recursos Adicionais
 
 Blog: [Insira o link do seu blog]
 Estudos de caso: [Insira links para estudos de caso]
